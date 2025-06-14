@@ -58,7 +58,7 @@ close_window = true
 # and file name will be `image_name` + number + '.' + `image_format`
 # where number is the number of the save.
 [saving_screen]
-save_screen = false
+save_screen = true
 image_name = "casioplot"
 image_format = "png"
 save_multiple = false
