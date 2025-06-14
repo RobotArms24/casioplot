@@ -20,8 +20,8 @@
 # since it will be automatically set to the size of the background image
 # minus the margins.
 [canvas]
-width = 400
-height = 200
+width = 127
+height = 63
 
 # Set the size of the margin around the canvas.
 # Useful if your background image has a border.
